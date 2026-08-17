@@ -1,0 +1,5 @@
+[2026-08-17 21:52:18,629] INFO - Data ingestion component initialized.
+[2026-08-17 21:53:12,096] INFO - Performed train test split on the dataframe
+[2026-08-17 21:53:12,097] INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[2026-08-17 21:53:12,098] INFO - Exporting train and test file path.
+[2026-08-17 21:53:12,169] INFO - Exported train and test file path.
