@@ -9,4 +9,7 @@ dill
 pyaml
 mlflow
 dvc 
+dagshub
+fastapi
+uvicorn
 ##-e .
