@@ -60,7 +60,7 @@ async def train_route():
     except Exception as e:
         raise NetworkSecurityException(e,sys)
     
-@app.post("/predict")
+@app.post("/scan")
 async def predict_route(request: Request,file: UploadFile = File(...)):
     try:
         df=pd.read_csv(file.file)
